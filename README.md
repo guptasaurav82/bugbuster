@@ -19,20 +19,6 @@ You can click the Preview link to take a look at your changes.
 :zap: Worked under various faculty as a research student.
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-kumar-gupta-4402201bb/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
